@@ -30,7 +30,7 @@ This repository reflects the approach of an engineer who uses Python as an analy
 
 **3. 📂 Structure and Content**
 
-📁 01_Mass_Balance
+01_Mass_Balance
 
 Modeling of mixing and separation systems using mass balances, including:
 
@@ -39,7 +39,7 @@ Modeling of mixing and separation systems using mass balances, including:
 * Mass conservation verification
 * Process stream analysis
 
-📁 02_Energy_Balances
+02_Energy_Balances
 
 Energy analysis of systems without chemical reaction, including:
 
@@ -48,7 +48,7 @@ Energy analysis of systems without chemical reaction, including:
 * Evaluation of operating conditions
 * Estimation of energy requirements
 
-📁 03_Unit_Operations
+03_Unit_Operations
 
 Modeling of process equipment, with emphasis on:
 
