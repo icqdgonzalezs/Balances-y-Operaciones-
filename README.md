@@ -1,83 +1,83 @@
-**🧪 Ingeniería Química Aplicada con Python**
+**🧪 Chemical Engineering Applications with Python**
 
-**Ingeniero Civil Químico | Análisis de Procesos · Operaciones Unitarias · Modelación con Python**
+Chemical Civil Engineer | Process Analysis · Unit Operations · Process Modeling with Python
 
-**1. 📌 Descripción General**
-Este repositorio reúne una serie de proyectos y ejercicios de ingeniería química desarrollados en Python, enfocados en el análisis, modelación y evaluación de procesos industriales.
+**1. 📌 General Description**
 
-Los casos de estudio abordan problemas clásicos de la ingeniería de procesos —como balances de masa, balances de energía y operaciones unitarias— utilizando Python como herramienta de apoyo al análisis ingenieril, simulación y toma de decisiones técnicas.
+This repository brings together a series of chemical engineering projects and exercises developed in Python, focused on the analysis, modeling, and evaluation of industrial processes.
 
-El enfoque prioriza:
+The case studies address classical process engineering problems —such as mass balances, energy balances, and unit operations— using Python as a tool to support engineering analysis, simulation, and technical decision-making.
 
-* La comprensión física del proceso
-* La correcta definición de supuestos
-* La interpretación rigurosa de resultados
-* El uso de Python como herramienta de ingeniería
+The approach prioritizes:
 
-por sobre el desarrollo matemático excesivo.
+* Physical understanding of the process
+* Proper definition of assumptions
+* Rigorous interpretation of results
+* Use of Python as an engineering tool
+* over excessive mathematical development.
 
-**2. 🎯 Objetivo del Repositorio**
-El propósito de este repositorio es:
+**2. 🎯 Repository Objective**
 
-* Aplicar Python al análisis de problemas reales de ingeniería química
-* Desarrollar modelos simples, claros y reproducibles
-* Integrar fundamentos teóricos con simulación y visualización de resultados
-* Realizar análisis paramétrico para evaluación de procesos
-* Construir un portafolio técnico orientado a ingeniería de procesos
+The purpose of this repository is:
 
-Este repositorio refleja el enfoque de un ingeniero que utiliza Python como herramienta de análisis, no solo como lenguaje de programación.
+* Apply Python to the analysis of real chemical engineering problems
+* Develop simple, clear, and reproducible models
+* Integrate theoretical fundamentals with simulation and result visualization
+* Perform parametric analysis for process evaluation
+* Build a technical portfolio oriented to process engineering
 
-**3. 📂 Estructura y Contenido**
+This repository reflects the approach of an engineer who uses Python as an analysis tool, not only as a programming language.
 
-📁 01_Balance_de_Masa
+**3. 📂 Structure and Content**
 
-Modelación de sistemas de mezcla y separación mediante balances de masa, incluyendo:
+📁 01_Mass_Balance
 
-* Cálculo de caudales
-* Determinación de fracciones másicas
-* Verificación de conservación de masa
-* Análisis de corrientes de proceso
+Modeling of mixing and separation systems using mass balances, including:
 
-📁 02_Balances_de_Energía
+* Flow rate calculations
+* Mass fraction determination
+* Mass conservation verification
+* Process stream analysis
 
-Análisis energético de sistemas sin reacción química, considerando:
+📁 02_Energy_Balances
 
-* Aplicación del primer principio de la termodinámica
-* Cálculo de flujos de energía
-* Evaluación de condiciones operacionales
-* Estimación de requerimientos energéticos
+Energy analysis of systems without chemical reaction, including:
 
-📁 03_Operaciones_Unitarias
+* Application of the First Law of Thermodynamics
+* Energy flow calculations
+* Evaluation of operating conditions
+* Estimation of energy requirements
 
-Modelación de equipos de proceso, con énfasis en:
+📁 03_Unit_Operations
 
-* Intercambiadores de calor
-* Análisis térmico y paramétrico
-* Evaluación de desempeño bajo distintas condiciones de operación
-* Análisis de variables de proceso
+Modeling of process equipment, with emphasis on:
 
-**4. ⚙️ Enfoque de Modelación**
-Los modelos desarrollados consideran:
+* Heat exchangers
+* Thermal and parametric analysis
+* Performance evaluation under different operating conditions
+* Process variable analysis
 
-Régimen estacionario
-Supuestos ingenieriles razonables
-Propiedades constantes
-Sistemas simplificados para análisis preliminar
-Análisis paramétrico para apoyar decisiones de diseño
+**4. ⚙️ Modeling Approach**
 
-En todos los casos, Python se utiliza como una herramienta de ingeniería aplicada, similar a herramientas utilizadas en la industria para análisis de procesos.
+The developed models consider:
 
-**5. 🛠️ Herramientas Utilizadas**
+* Steady-state operation
+* Reasonable engineering assumptions
+* Constant properties
+* Simplified systems for preliminary analysis
+* Parametric analysis to support design decisions
+
+In all cases, Python is used as an applied engineering tool, similar to tools used in industry for process analysis.
+
+**5. 🛠️ Tools Used**
+
 * Python 3
 * NumPy
 * Matplotlib
 
-(Próximamente: Pandas, SciPy, simulación de procesos y análisis de datos industriales)
+(Coming soon: Pandas, SciPy, process simulation, and industrial data analysis)
 
-**👨‍🔬 Autor**
 
-**David González Santibañez | Chemical Civil Engineer | Process Engineer**
+**👨‍🔬 Author**
 
-Análisis y modelación de procesos
-Aplicación de Python en ingeniería
-Interés en simulación de procesos y mejora continua
+David González Santibañez | Chemical Civil Engineer | Process Engineer
